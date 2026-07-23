@@ -1,13 +1,13 @@
-Jack Nimrod Kisutsa
+# Jack Nimrod Kisutsa
 
-Senior Business Analyst | Business Intelligence | Financial Modelling | Data Analytics
+## Senior Business Analyst | Business Intelligence | Financial Modelling | Data Analytics
 
 Nairobi, Kenya
 
 
 I transform business questions and complex data into practical requirements, decision-ready dashboards, financial models, and measurable performance insights. I bring 9+ years of experience across banking and higher education, combining business analysis, finance, risk awareness, and data storytelling.
 
-Navigation
+## Navigation
 
 Business Analysis Skills
 
