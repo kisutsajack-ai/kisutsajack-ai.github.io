@@ -65,6 +65,10 @@ I transform business questions and complex data into practical requirements, dec
 
 A flagship Excel-based BI solution that integrates sales, production, inventory, finance, customer and supplier information into a single decision-support environment.
 
+<p align="center">
+<img src="Images/Dashboard_Index.png" width="100%">
+</p>
+
 - Built **7 functional dashboards**: Executive, Sales, Production, Inventory, Finance, Customer and Supplier
 - Modelled **5 fact tables** and **6 dimension tables** using a structured analytical model
 - Developed **50+ DAX measures** for operational and financial performance analysis
@@ -80,13 +84,15 @@ A flagship Excel-based BI solution that integrates sales, production, inventory,
 
 A management reporting solution designed to help decision-makers monitor financial performance, understand budget variances and identify areas requiring action.
 
+![Dashboard Overview](dashboard-overview.png)
+
 - Tracks budget, actual expenditure, variance, utilisation and performance trends
 - Uses KPI cards and visual analysis to highlight exceptions and material movements
 - Supports periodic management reviews and evidence-based resource allocation
 - Converts detailed finance data into clear executive-level reporting
 
 **Tools:** Power BI · Advanced Excel · Power Query · DAX · Financial Analysis  
-**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai?tab=repositories)
+**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai/financial-performance-dashboard-powerbi)
 
 ---
 
@@ -94,19 +100,23 @@ A management reporting solution designed to help decision-makers monitor financi
 
 A four-page Power BI case study examining sales performance, customer profitability, discount behaviour and the drivers of loss-making transactions.
 
+![Dashboard Overview](dashboard-overview.png)
+
 - Identified an overall **11.6% profit margin**
 - Found that approximately **15.27% of revenue** was associated with high-discount sales
 - Identified **68 negative-profit customers** from a base of 796 customers
 - Translated findings into actions for pricing, discount controls and customer management
 
 **Tools:** Power BI · Power Query · DAX · Profitability Analysis · Data Storytelling  
-**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai?tab=repositories)
+**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai/retail-profitability-discount-analysis-powerbi)
 
 ---
 
 ### 4. Kenya Tier-1 Banking Sector Dashboard
 
 A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co-operative Bank, NCBA, Absa, DTB, Standard Chartered, I&M and Stanbic.
+
+![Overview](overview.png)
 
 - Compares assets, deposits, loans, profit after tax, ROE, EPS and dividends per share
 - Assesses bank size, growth, profitability, asset quality and risk
@@ -122,6 +132,8 @@ A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co
 
 A four-page Power BI dashboard exploring population, health resources and service-access indicators across all **47 counties in Kenya**.
 
+![Health Infrastructure](health-infrastructure-overview.png)
+
 - Integrates data from the Ministry of Health, KNBS 2019 census and WHO sources
 - Presents county-level comparisons and regional disparities
 - Structures complex public-sector data for accessible policy and planning insights
@@ -135,6 +147,8 @@ A four-page Power BI dashboard exploring population, health resources and servic
 ### 6. SACCO Loan Performance & Risk Monitoring System
 
 An end-to-end loan-monitoring solution connecting operational data, workflow automation and BI reporting to support credit-risk decisions.
+
+![Dashboard](./dashboard.png)
 
 - Tracks loan disbursement, average loan size, repayment and portfolio growth
 - Monitors default rate, NPL percentage, arrears, repayment rate and collection efficiency
@@ -150,13 +164,15 @@ An end-to-end loan-monitoring solution connecting operational data, workflow aut
 
 A 2025 market-analysis project covering listed companies and key indicators used to compare valuation, profitability and shareholder returns.
 
+![Market Overview](market_overview.png)
+
 - Analyses market capitalisation, price-to-earnings ratio, earnings per share and dividend yield
 - Enables sector and company-level comparison across the market
 - Highlights relative valuation, performance patterns and potential outliers
 - Presents technical market measures in a decision-friendly format
 
 **Tools:** Power BI · Excel · Financial Modelling · Market Analysis · Data Visualisation  
-**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai?tab=repositories)
+**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi)
 
 ## Selected Professional Impact
 
