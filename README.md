@@ -65,9 +65,7 @@ I transform business questions and complex data into practical requirements, dec
 
 A flagship Excel-based BI solution that integrates sales, production, inventory, finance, customer and supplier information into a single decision-support environment.
 
-<p align="center">
-<img src="Images/Dashboard_Index.png" width="100%">
-</p>
+![Dashboard](https://github.com/kisutsajack-ai/enterprise-manufacturing-bi-system-excel/raw/main/Images/Dashboard_Index.png)
 
 - Built **7 functional dashboards**: Executive, Sales, Production, Inventory, Finance, Customer and Supplier
 - Modelled **5 fact tables** and **6 dimension tables** using a structured analytical model
@@ -84,7 +82,7 @@ A flagship Excel-based BI solution that integrates sales, production, inventory,
 
 A management reporting solution designed to help decision-makers monitor financial performance, understand budget variances and identify areas requiring action.
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](https://github.com/kisutsajack-ai/financial-performance-dashboard-powerbi/raw/main/dashboard-overview.png)
 
 - Tracks budget, actual expenditure, variance, utilisation and performance trends
 - Uses KPI cards and visual analysis to highlight exceptions and material movements
@@ -100,7 +98,7 @@ A management reporting solution designed to help decision-makers monitor financi
 
 A four-page Power BI case study examining sales performance, customer profitability, discount behaviour and the drivers of loss-making transactions.
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](https://github.com/kisutsajack-ai/retail-profitability-discount-analysis-powerbi/raw/main/dashboard-overview.png)
 
 - Identified an overall **11.6% profit margin**
 - Found that approximately **15.27% of revenue** was associated with high-discount sales
@@ -116,7 +114,7 @@ A four-page Power BI case study examining sales performance, customer profitabil
 
 A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co-operative Bank, NCBA, Absa, DTB, Standard Chartered, I&M and Stanbic.
 
-![Overview](overview.png)
+![Overview]([overview.png](https://github.com/kisutsajack-ai/kenya-tier1-banking-analysis-dashboard/raw/main/overview.png))
 
 - Compares assets, deposits, loans, profit after tax, ROE, EPS and dividends per share
 - Assesses bank size, growth, profitability, asset quality and risk
@@ -132,7 +130,7 @@ A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co
 
 A four-page Power BI dashboard exploring population, health resources and service-access indicators across all **47 counties in Kenya**.
 
-![Health Infrastructure](health-infrastructure-overview.png)
+![Health Infrastructure]([health-infrastructure-overview.png](https://github.com/kisutsajack-ai/kenya-health-sector-analysis-powerbi/raw/main/health-infrastructure-overview.png))
 
 - Integrates data from the Ministry of Health, KNBS 2019 census and WHO sources
 - Presents county-level comparisons and regional disparities
@@ -148,7 +146,7 @@ A four-page Power BI dashboard exploring population, health resources and servic
 
 An end-to-end loan-monitoring solution connecting operational data, workflow automation and BI reporting to support credit-risk decisions.
 
-![Dashboard](./dashboard.png)
+![Dashboard]([./dashboard.png](https://github.com/kisutsajack-ai/sacco-loan-risk-dashboard/raw/main/dashboard.png))
 
 - Tracks loan disbursement, average loan size, repayment and portfolio growth
 - Monitors default rate, NPL percentage, arrears, repayment rate and collection efficiency
@@ -164,7 +162,7 @@ An end-to-end loan-monitoring solution connecting operational data, workflow aut
 
 A 2025 market-analysis project covering listed companies and key indicators used to compare valuation, profitability and shareholder returns.
 
-![Market Overview](market_overview.png)
+![Market Overview]([market_overview.png](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi/raw/main/market_overview.png))
 
 - Analyses market capitalisation, price-to-earnings ratio, earnings per share and dividend yield
 - Enables sector and company-level comparison across the market
@@ -189,6 +187,8 @@ A 2025 market-analysis project covering listed companies and key indicators used
 - **Bachelor of Commerce — Finance**
 - **Data Analytics Professional Certificate - Google — Completed**
 - **IBM Data Analysis with Excel & R — Completed**
+- **Leadership and Emotional Intelligence (Indian School of Business) — Completed**
+- **Survey Data Collection and Analytics (University of Michigan) — Completed**
 - **Microsoft Power BI Data Analyst (PL-300) — In progress**
 - Continued development in SQL, Python, R, automation and advanced business intelligence
 
