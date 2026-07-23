@@ -169,9 +169,9 @@ A 2025 market-analysis project covering listed companies and key indicators used
 
 ## Education & Professional Development
 
-- **Master of Commerce**
+- **Master of Commerce  — Strategic Management**
 - **Bachelor of Commerce — Finance**
-- **CPA — Level 2**
+- **Data Analytics Professional Certificate - Google — Completed**
 - **IBM Data Analysis with Excel & R — Completed**
 - **Microsoft Power BI Data Analyst (PL-300) — In progress**
 - Continued development in SQL, Python, R, automation and advanced business intelligence
