@@ -92,7 +92,7 @@ A management reporting solution designed to help decision-makers monitor financi
 - Converts detailed finance data into clear executive-level reporting
 
 **Tools:** Power BI · Advanced Excel · Power Query · DAX · Financial Analysis  
-**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai/financial-performance-dashboard-powerbi)
+**Projects:** [Financial Performance & Budget Monitoring Dashboard](https://github.com/kisutsajack-ai/financial-performance-dashboard-powerbi)
 
 ---
 
@@ -108,7 +108,7 @@ A four-page Power BI case study examining sales performance, customer profitabil
 - Translated findings into actions for pricing, discount controls and customer management
 
 **Tools:** Power BI · Power Query · DAX · Profitability Analysis · Data Storytelling  
-**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai/retail-profitability-discount-analysis-powerbi)
+**Projects:** [Global Superstore Profitability Analysis](https://github.com/kisutsajack-ai/retail-profitability-discount-analysis-powerbi)
 
 ---
 
@@ -172,7 +172,7 @@ A 2025 market-analysis project covering listed companies and key indicators used
 - Presents technical market measures in a decision-friendly format
 
 **Tools:** Power BI · Excel · Financial Modelling · Market Analysis · Data Visualisation  
-**Projects:** [View my GitHub repositories](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi)
+**Projects:** [Nairobi Securities Exchange Market Analysis](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi)
 
 ## Selected Professional Impact
 
