@@ -114,7 +114,7 @@ A four-page Power BI case study examining sales performance, customer profitabil
 
 A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co-operative Bank, NCBA, Absa, DTB, Standard Chartered, I&M and Stanbic.
 
-![Overview]([overview.png](https://github.com/kisutsajack-ai/kenya-tier1-banking-analysis-dashboard/raw/main/overview.png))
+![Overview](https://github.com/kisutsajack-ai/kenya-tier1-banking-analysis-dashboard/raw/main/overview.png)
 
 - Compares assets, deposits, loans, profit after tax, ROE, EPS and dividends per share
 - Assesses bank size, growth, profitability, asset quality and risk
@@ -130,7 +130,7 @@ A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co
 
 A four-page Power BI dashboard exploring population, health resources and service-access indicators across all **47 counties in Kenya**.
 
-![Health Infrastructure]([health-infrastructure-overview.png](https://github.com/kisutsajack-ai/kenya-health-sector-analysis-powerbi/raw/main/health-infrastructure-overview.png))
+![Health Infrastructure](https://github.com/kisutsajack-ai/kenya-health-sector-analysis-powerbi/raw/main/health-infrastructure-overview.png)
 
 - Integrates data from the Ministry of Health, KNBS 2019 census and WHO sources
 - Presents county-level comparisons and regional disparities
@@ -146,7 +146,7 @@ A four-page Power BI dashboard exploring population, health resources and servic
 
 An end-to-end loan-monitoring solution connecting operational data, workflow automation and BI reporting to support credit-risk decisions.
 
-![Dashboard]([./dashboard.png](https://github.com/kisutsajack-ai/sacco-loan-risk-dashboard/raw/main/dashboard.png))
+![Dashboard](https://github.com/kisutsajack-ai/sacco-loan-risk-dashboard/raw/main/dashboard.png)
 
 - Tracks loan disbursement, average loan size, repayment and portfolio growth
 - Monitors default rate, NPL percentage, arrears, repayment rate and collection efficiency
@@ -162,7 +162,7 @@ An end-to-end loan-monitoring solution connecting operational data, workflow aut
 
 A 2025 market-analysis project covering listed companies and key indicators used to compare valuation, profitability and shareholder returns.
 
-![Market Overview]([market_overview.png](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi/raw/main/market_overview.png))
+![Market Overview](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi/raw/main/market_overview.png)
 
 - Analyses market capitalisation, price-to-earnings ratio, earnings per share and dividend yield
 - Enables sector and company-level comparison across the market
