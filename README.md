@@ -1,4 +1,4 @@
-# Jack Nimrod Kisutsa
+# Jack Kisutsa
 
 ### Senior Business Analyst | Business Intelligence | Financial Modelling | Data Analytics
 
