@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.jpg" alt="Jack Kisutsa Profile" width="160" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>  
+  
 # Jack Kisutsa
 
 ### Senior Business Analyst | Business Intelligence | Financial Modelling | Data Analytics
