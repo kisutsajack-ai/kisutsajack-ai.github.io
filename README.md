@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile" alt="Jack Kisutsa Profile" width="160" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="profile.jpeg" alt="Jack Kisutsa Profile" width="160" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </p>  
   
 # Jack Kisutsa
