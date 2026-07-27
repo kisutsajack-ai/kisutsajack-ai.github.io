@@ -71,11 +71,12 @@ A flagship Excel-based BI solution that integrates sales, production, inventory,
 
 ![Dashboard](https://github.com/kisutsajack-ai/enterprise-manufacturing-bi-system-excel/raw/main/Images/Dashboard_Index.png)
 
-- Built **7 functional dashboards**: Executive, Sales, Production, Inventory, Finance, Customer and Supplier
-- Modelled **5 fact tables** and **6 dimension tables** using a structured analytical model
-- Developed **50+ DAX measures** for operational and financial performance analysis
-- Applied Power Query for repeatable data transformation and Power Pivot for modelling
-- Delivered interactive analysis through PivotTables, PivotCharts and slicers
+**Problem:** Manufacturing decision-makers lacked a consolidated view of sales, production, inventory, finance, customers and suppliers.
+
+**Solution:** Developed an integrated Excel-based BI system containing seven dashboards, five fact tables, six dimension tables and more than 50 DAX measures.
+
+**Impact:** Created a single decision-support environment for monitoring profitability, production efficiency, inventory movement, customer performance and supplier activity.
+
 
 **Tools:** Advanced Excel · Power Query · Power Pivot · DAX · Data Modelling  
 **Repository:** [Enterprise Manufacturing BI System](https://github.com/kisutsajack-ai/enterprise-manufacturing-bi-system-excel)
