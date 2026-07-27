@@ -30,11 +30,17 @@ I combine a business analyst's structured problem-solving approach with finance 
 I am interested in opportunities involving:
 
 -Business Analysis
+
 -Business Intelligence and Reporting
+
 -Financial Planning and Analysis
+
 -Finance Strategy and Performance
+
 -Data and Performance Analytics
+
 -PMO, Transformation and Process Improvement
+
 -Decision Support
 
 ## Business Analysis Skills
