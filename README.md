@@ -23,6 +23,20 @@ I transform business questions and complex data into practical requirements, dec
 - [Education & Professional Development](#education--professional-development)
 - [Contact](#contact)
 
+## Professional Profile
+
+I combine a business analyst's structured problem-solving approach with finance expertise and hands-on business intelligence development. My work focuses on understanding business needs, improving processes, defining performance measures and converting operational or financial data into clear recommendations.
+
+I am interested in opportunities involving:
+
+-Business Analysis
+-Business Intelligence and Reporting
+-Financial Planning and Analysis
+-Finance Strategy and Performance
+-Data and Performance Analytics
+-PMO, Transformation and Process Improvement
+-Decision Support
+
 ## Business Analysis Skills
 
 | Area | Capabilities |
@@ -73,10 +87,9 @@ A flagship Excel-based BI solution that integrates sales, production, inventory,
 
 **Problem:** Manufacturing decision-makers lacked a consolidated view of sales, production, inventory, finance, customers and suppliers.
 
-**Solution:** Developed an integrated Excel-based BI system containing seven dashboards, five fact tables, six dimension tables and more than 50 DAX measures.
+**Solution:** Developed an integrated Excel-based BI system containing seven dashboards, five fact tables, six dimension tables and more than 50 DAX measures, supported by repeatable Power Query transformations and a structured Power Pivot model.
 
-**Impact:** Created a single decision-support environment for monitoring profitability, production efficiency, inventory movement, customer performance and supplier activity.
-
+**Impact:** Created a single decision-support environment for monitoring profitability, production efficiency, inventory movement, customer performance, supplier activity and financial results.
 
 **Tools:** Advanced Excel · Power Query · Power Pivot · DAX · Data Modelling  
 **Repository:** [Enterprise Manufacturing BI System](https://github.com/kisutsajack-ai/enterprise-manufacturing-bi-system-excel)
@@ -89,13 +102,11 @@ A management reporting solution designed to help decision-makers monitor financi
 
 ![Dashboard Overview](https://github.com/kisutsajack-ai/financial-performance-dashboard-powerbi/raw/main/dashboard-overview.png)
 
-- Tracks budget, actual expenditure, variance, utilisation and performance trends
-- Uses KPI cards and visual analysis to highlight exceptions and material movements
-- Supports periodic management reviews and evidence-based resource allocation
-- Converts detailed finance data into clear executive-level reporting
-
+**Problem:** Managers needed a clearer way to monitor financial performance, understand budget variances and identify areas requiring corrective action.
+**Solution:** Developed a management-reporting dashboard that tracks budgets, actual expenditure, utilisation, variances and performance trends using executive KPI cards and exception-focused analysis.
+**Impact:** Improved visibility of material movements and supported evidence-based resource allocation and periodic management reviews.
 **Tools:** Power BI · Advanced Excel · Power Query · DAX · Financial Analysis  
-**Projects:** [Financial Performance & Budget Monitoring Dashboard](https://github.com/kisutsajack-ai/financial-performance-dashboard-powerbi)
+**Portfolio:** [Financial Performance & Budget Monitoring Dashboard](https://github.com/kisutsajack-ai/financial-performance-dashboard-powerbi)
 
 ---
 
@@ -105,11 +116,10 @@ A four-page Power BI case study examining sales performance, customer profitabil
 
 ![Dashboard Overview](https://github.com/kisutsajack-ai/retail-profitability-discount-analysis-powerbi/raw/main/dashboard-overview.png)
 
-- Identified an overall **11.6% profit margin**
-- Found that approximately **15.27% of revenue** was associated with high-discount sales
-- Identified **68 negative-profit customers** from a base of 796 customers
-- Translated findings into actions for pricing, discount controls and customer management
-
+**Problem:** Strong sales performance was masking loss-making customers, transactions and discounting practices.
+**Solution:** Built a four-page Power BI analysis covering sales performance, customer profitability, discount behaviour and the drivers of negative-profit transactions.
+**Insights:** Identified an overall 11.6% profit margin, found that approximately 15.27% of revenue was linked to high-discount sales and identified 68 negative-profit customers from 796 customers.
+**Impact:** Produced actionable recommendations for pricing controls, discount governance and customer-profitability management.
 **Tools:** Power BI · Power Query · DAX · Profitability Analysis · Data Storytelling  
 **Projects:** [Global Superstore Profitability Analysis](https://github.com/kisutsajack-ai/retail-profitability-discount-analysis-powerbi)
 
@@ -121,11 +131,9 @@ A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co
 
 ![Overview](https://github.com/kisutsajack-ai/kenya-tier1-banking-analysis-dashboard/raw/main/overview.png)
 
-- Compares assets, deposits, loans, profit after tax, ROE, EPS and dividends per share
-- Assesses bank size, growth, profitability, asset quality and risk
-- Organises insights across overview, size, profitability, risk and executive-summary pages
-- Supports peer benchmarking and investment or strategy discussions
-
+**Problem:** Bank performance information was fragmented, making it difficult to compare size, growth, profitability, asset quality and shareholder returns across major Kenyan banks.
+**Solution:** Developed a 2019–2024 comparative dashboard covering KCB, Equity, Co-operative Bank, NCBA, Absa, DTB, Standard Chartered, I&M and Stanbic.
+**Impact:** Enabled structured peer benchmarking across assets, deposits, loans, profit after tax, ROE, EPS and dividends per share for strategy and investment discussions.
 **Tools:** Power BI · DAX · Financial Analysis · Banking KPIs · Benchmarking  
 **Repository:** [Kenya Tier-1 Banking Analysis Dashboard](https://github.com/kisutsajack-ai/kenya-tier1-banking-analysis-dashboard)
 
@@ -137,11 +145,9 @@ A four-page Power BI dashboard exploring population, health resources and servic
 
 ![Health Infrastructure](https://github.com/kisutsajack-ai/kenya-health-sector-analysis-powerbi/raw/main/health-infrastructure-overview.png)
 
-- Integrates data from the Ministry of Health, KNBS 2019 census and WHO sources
-- Presents county-level comparisons and regional disparities
-- Structures complex public-sector data for accessible policy and planning insights
-- Demonstrates multi-source data preparation, modelling and geographic analysis
-
+**Problem:**  Health-resource and service-access information was spread across several public sources and was difficult to compare consistently across Kenya's 47 counties.
+**Solution:**  Integrated Ministry of Health, KNBS 2019 census and WHO data into a four-page Power BI dashboard with county and regional comparisons.
+**Impact:**  Made population, health-resource and service-access disparities easier to identify for policy, planning and resource-allocation discussions.
 **Tools:** Power BI · Power Query · DAX · Public Data · Geographic Analysis  
 **Repository:** [Kenya Health Sector Analysis](https://github.com/kisutsajack-ai/kenya-health-sector-analysis-powerbi)
 
@@ -153,11 +159,9 @@ An end-to-end loan-monitoring solution connecting operational data, workflow aut
 
 ![Dashboard](https://github.com/kisutsajack-ai/sacco-loan-risk-dashboard/raw/main/dashboard.png)
 
-- Tracks loan disbursement, average loan size, repayment and portfolio growth
-- Monitors default rate, NPL percentage, arrears, repayment rate and collection efficiency
-- Uses rule-based workflows to identify defaulters and high-risk loans
-- Connects Supabase, n8n, Google Sheets and Power BI, with SMS alert capability through Africa's Talking
-
+**Problem:** SACCO managers needed earlier visibility of arrears, defaults, non-performing loans and deteriorating repayment behaviour.
+**Solution:** Designed an end-to-end monitoring system connecting Supabase, n8n, Google Sheets and Power BI, with rule-based workflows and SMS-alert capability through Africa's Talking.
+**Impact:** Enabled monitoring of disbursements, average loan size, repayment rate, NPL percentage, arrears, collection efficiency and high-risk accounts.
 **Tools:** Supabase · n8n · Google Sheets · Power BI · APIs · Risk Analytics  
 **Repository:** [SACCO Loan Risk Dashboard](https://github.com/kisutsajack-ai/sacco-loan-risk-dashboard)
 
@@ -169,11 +173,9 @@ A 2025 market-analysis project covering listed companies and key indicators used
 
 ![Market Overview](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi/raw/main/market_overview.png)
 
-- Analyses market capitalisation, price-to-earnings ratio, earnings per share and dividend yield
-- Enables sector and company-level comparison across the market
-- Highlights relative valuation, performance patterns and potential outliers
-- Presents technical market measures in a decision-friendly format
-
+**Problem:** Market information required a clearer structure for comparing company valuation, profitability and shareholder returns.
+**Solution:** Developed a 2025 market-analysis dashboard covering listed companies, sectors, market capitalisation, price-to-earnings ratio, earnings per share and dividend yield.
+**Impact:** Simplified company and sector comparisons while highlighting valuation patterns, performance differences and potential outliers.
 **Tools:** Power BI · Excel · Financial Modelling · Market Analysis · Data Visualisation  
 **Projects:** [Nairobi Securities Exchange Market Analysis](https://github.com/kisutsajack-ai/nairobi-stock-market-analysis-powerbi)
 
