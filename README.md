@@ -100,7 +100,7 @@ A flagship Excel-based BI solution that integrates sales, production, inventory,
 
 A long-term analysis of Kenya’s banking sector, examining industry performance, financial trends and structural changes between 2006 and 2023.
 
-![Dashboard]( )
+![Dashboard](https://github.com/kisutsajack-ai/kenya-banking-sector-analysis-powerbi/raw/main/01_executive_overview.png)
 
 **Problem:** Understand how Kenya’s banking sector evolved over 18 years and identify the major trends affecting industry performance.
 
