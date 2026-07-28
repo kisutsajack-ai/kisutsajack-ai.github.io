@@ -96,7 +96,31 @@ A flagship Excel-based BI solution that integrates sales, production, inventory,
 
 ---
 
-### 2. Kenya Tier-1 Banking Sector Dashboard
+### 2. Kenya Banking Sector Analysis (2006–2023)
+
+A long-term analysis of Kenya’s banking sector, examining industry performance, financial trends and structural changes between 2006 and 2023.
+
+![Dashboard]( )
+
+**Problem:** Understand how Kenya’s banking sector evolved over 18 years and identify the major trends affecting industry performance.
+
+**Approach:** Cleaned and modelled historical banking data, calculated performance indicators and developed interactive dashboards for trend and comparative analysis.
+
+**Tools:** Power BI · Power Query · DAX · Microsoft Excel
+
+**Key focus areas:**
+
+- Banking-sector growth and profitability trends
+- Assets, deposits, loans and capital performance
+- Credit-risk and asset-quality indicators
+- Long-term industry changes
+- Executive-level financial visualisation
+
+**Repository:** [Kenya Banking Sector Analysis (2006–2023)](https://github.com/kisutsajack-ai/kenya-banking-sector-analysis-powerbi)
+
+---
+
+### 3. Kenya Tier-1 Banking Sector Dashboard
 
 A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co-operative Bank, NCBA, Absa, DTB, Standard Chartered, I&M and Stanbic.
 
@@ -113,7 +137,7 @@ A 2019–2024 comparative analysis of nine leading Kenyan banks: KCB, Equity, Co
 
 ---
 
-### 3. SACCO Loan Performance & Risk Monitoring System
+### 4. SACCO Loan Performance & Risk Monitoring System
 
 An end-to-end loan-monitoring solution connecting operational data, workflow automation and BI reporting to support credit-risk decisions.
 
@@ -129,7 +153,7 @@ An end-to-end loan-monitoring solution connecting operational data, workflow aut
 **Repository:** [SACCO Loan Risk Dashboard](https://github.com/kisutsajack-ai/sacco-loan-risk-dashboard)
 
 ---
-### 4. Nairobi Securities Exchange Market Analysis
+### 5. Nairobi Securities Exchange Market Analysis
 
 A 2025 market-analysis project covering listed companies and key indicators used to compare valuation, profitability and shareholder returns.
 
@@ -146,7 +170,7 @@ A 2025 market-analysis project covering listed companies and key indicators used
 
 ---
 
-### 5. Kenya Health Sector Analysis
+### 6. Kenya Health Sector Analysis
 
 A four-page Power BI dashboard exploring population, health resources and service-access indicators across all **47 counties in Kenya**.
 
@@ -163,7 +187,7 @@ A four-page Power BI dashboard exploring population, health resources and servic
 
 ---
 
-### 6. Global Superstore Profitability Analysis
+### 7. Global Superstore Profitability Analysis
 
 A four-page Power BI case study examining sales performance, customer profitability, discount behaviour and the drivers of loss-making transactions.
 
@@ -182,7 +206,7 @@ A four-page Power BI case study examining sales performance, customer profitabil
 
 ---
 
-### 7. Financial Performance & Budget Monitoring Dashboard
+### 8. Financial Performance & Budget Monitoring Dashboard
 
 A management reporting solution designed to help decision-makers monitor financial performance, understand budget variances and identify areas requiring action.
 
