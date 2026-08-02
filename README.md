@@ -234,7 +234,7 @@ A management reporting solution designed to help decision-makers monitor financi
 
 - **Master of Commerce  — Strategic Management**
 - **Bachelor of Commerce — Finance**
-- **Data Analytics Professional Certificate - Google — Completed**
+- **Data Analytics Professional Certificate (Google) — Completed**
 - **IBM Data Analysis with Excel & R — Completed**
 - **Leadership and Emotional Intelligence (Indian School of Business) — Completed**
 - **Survey Data Collection and Analytics (University of Michigan) — Completed**
