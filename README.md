@@ -238,7 +238,7 @@ A management reporting solution designed to help decision-makers monitor financi
 - **IBM Data Analysis with Excel & R — Completed**
 - **Leadership and Emotional Intelligence (Indian School of Business) — Completed**
 - **Survey Data Collection and Analytics (University of Michigan) — Completed**
-- **Microsoft Power BI Data Analyst (PL-300) — In progress**
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300) — Completed**
 - Continued development in SQL, Python, R, automation and advanced business intelligence
 
 ## What I Bring
